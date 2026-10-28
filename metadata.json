@@ -1,0 +1,6 @@
+{
+  "name": "ARGUS // OSINT & Threat Intel",
+  "description": "Real-time advanced OSINT dashboard scraping public sources & dark web feeds with sentiment analysis, Georgia & Florida threat mapping, phone OAuth admin access, automated alerts, and advanced IP intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
